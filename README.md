@@ -1,1 +1,14 @@
-# 2022ghost.github.io
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Display Text</title>
+</head>
+<body>
+    <div>
+        <h1>This is a GitHub Text Display Example</h1>
+        <p>testing once more!! i looove testing features.</p>
+    </div>
+</body>
+</html>
